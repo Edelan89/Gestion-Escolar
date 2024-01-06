@@ -1,5 +1,5 @@
 # Gestion-Escolar
-Description
+Description:
 The Grade Calculator is a simple Python program that helps calculate the average grades of evaluations or assessments. It takes in a list of grades and computes the overall average.
 
 Features
